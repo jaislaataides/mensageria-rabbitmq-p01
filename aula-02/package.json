@@ -1,0 +1,16 @@
+{
+  "name": "aula-02",
+  "version": "1.0.0",
+  "description": "exemplo de mensageria",
+  "scripts": {
+    "start": "node main.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "type": "module",
+  "author": "Thiago Martins",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  }
+}
