@@ -4,7 +4,8 @@
   "description": "exemplo de mensageria",
   "scripts": {
     "start": "node main.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write ./**/*.{ts,js}"
   },
   "type": "module",
   "author": "Thiago Martins",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "@types/amqplib": "^0.10.8",
     "@types/node": "^24.9.1",
+    "prettier": "^3.6.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
