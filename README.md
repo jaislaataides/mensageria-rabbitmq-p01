@@ -1,0 +1,2 @@
+# mensageria-rabbitmq
+# mensageria-rabbitmq
