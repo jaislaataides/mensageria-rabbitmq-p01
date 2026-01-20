@@ -1,6 +1,6 @@
 # Mensageria - Simulação Abstrata
 
-Este repositório é uma simulação abstrata de mensageria utilizando `EventEmitter` do Node.js. O objetivo é demonstrar padrões de integração empresarial (Enterprise Integration Patterns) de forma didática, sem depender de um message broker real como RabbitMQ. Um projeto inicial do curso de `Node.js: mensageria e arquitetura orientada a eventos`
+Este repositório é uma simulação abstrata de mensageria utilizando `EventEmitter` do Node.js. O objetivo é demonstrar padrões de integração empresarial (Enterprise Integration Patterns) de forma didática, sem depender de um message broker real como RabbitMQ. Um projeto inicial do curso de [`Node.js: mensageria e arquitetura orientada a eventos`](https://cursos.alura.com.br/course/nodejs-mensageria-arquitetura-orientada-eventos)
 
 ## O que é este projeto?
 
